@@ -46,7 +46,7 @@ function Calculator(){
    }
     return(
     <>
-       <div className='flex flex-col   h-[90vh] m-auto w-[50vh] div1'>
+       <div className='flex flex-col   h-[95vh] m-auto w-[60vh] div1'>
       <div className='divinp'>
 <input type="text" className='' value={num} readOnly/>
 <input type="text" className='inp2'  value={ans} readOnly/>
